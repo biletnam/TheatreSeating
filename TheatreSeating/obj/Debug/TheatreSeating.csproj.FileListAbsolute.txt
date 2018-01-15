@@ -1,0 +1,9 @@
+D:\Appr\Pump\Core\Core1-Webapp\TheatreSeating\obj\Debug\TheatreSeating.Form1.resources
+D:\Appr\Pump\Core\Core1-Webapp\TheatreSeating\obj\Debug\TheatreSeating.Properties.Resources.resources
+D:\Appr\Pump\Core\Core1-Webapp\TheatreSeating\obj\Debug\TheatreSeating.csproj.GenerateResource.Cache
+D:\Appr\Pump\Core\Core1-Webapp\TheatreSeating\obj\Debug\TheatreSeating.csproj.CoreCompileInputs.cache
+D:\Appr\Pump\Core\Core1-Webapp\TheatreSeating\bin\Debug\TheatreSeating.exe.config
+D:\Appr\Pump\Core\Core1-Webapp\TheatreSeating\bin\Debug\TheatreSeating.exe
+D:\Appr\Pump\Core\Core1-Webapp\TheatreSeating\bin\Debug\TheatreSeating.pdb
+D:\Appr\Pump\Core\Core1-Webapp\TheatreSeating\obj\Debug\TheatreSeating.exe
+D:\Appr\Pump\Core\Core1-Webapp\TheatreSeating\obj\Debug\TheatreSeating.pdb
